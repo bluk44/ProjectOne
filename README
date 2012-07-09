@@ -3,4 +3,7 @@ prosty jednomodułowy project (katalog gita w katalogu projektu)
 Eksport do githuba i stworzenie projektu w eclipsie
 
 1. komenda git init z konsoli w katalogu projektu
-2. utworzenie projektu javy z poziomu eclipsa
+2. utworzenie projektu javy z poziomu eclipsa w kataogu projektu
+3. dodanie plikow stworzonych przez eclipsa do repo.
+4. commit i push
+5. import w eclipsie dziala 
